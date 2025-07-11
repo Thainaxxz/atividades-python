@@ -8,7 +8,7 @@
 # % resto da divisão (5 % 2 == 1) (o resto da divisão)
 # ** potência (5 ** 2 == 25) (tipo 5 elevado a 2)
 
-#ORDEM DE PROCEDENCIA
+#ORDEM DE PROCEDÊNCIA
 #()
 #**
 # *, /, //, %
