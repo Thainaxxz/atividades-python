@@ -1,0 +1,18 @@
+# Arquivos de configuração do PyCharm
+.idea/
+*.iml
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de ambiente
+.env
+.venv/
+venv/
+ENV/
+
+# Outros arquivos desnecessários
+.DS_Store
+Thumbs.db
