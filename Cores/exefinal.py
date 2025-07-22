@@ -1,0 +1,1 @@
+#Colocar cores em todos os exercícios passados

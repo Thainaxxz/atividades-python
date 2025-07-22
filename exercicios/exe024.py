@@ -7,4 +7,4 @@ valor = cidade.find('Santo')
 if valor == 0:
     print('O nome da cidade digitado acima começa com "Santo"')
 else:
-    print('O nome da cidade digitado acima NÃO começa com "Santo"')
+    print('O nome da cidade digitado acima \033[0;31mNÃO \033[m começa com "Santo"')

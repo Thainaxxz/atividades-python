@@ -8,4 +8,10 @@ print('-----CALCULADORA DE AUMENTO SALARIAL-----')
 sal = float(input('Qual o valor do seu salário?(em reais) '))
 
 if sal > 1250:
-    soma = (sal * 100) / 
+    soma = (sal * 10) / 100
+    soma2 = soma + sal
+    print('Você receberá um aumento de R${:.2f} e seu salario final será de R$${:.2f}'.format(soma, soma2))
+elif sal <= 1250:
+    soma = (sal * 15) / 100
+    soma2 = soma = sal
+    print('Você receberá um aumento de R${:.2f} e seu salario final será de R$${:.2f}'.format(soma, soma2))
